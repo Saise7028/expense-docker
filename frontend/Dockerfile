@@ -21,14 +21,6 @@ USER nginx
 
 
 
-
-
-
-
-
-
-
-
 # Best before docker practice
 # FROM nginx
 # COPY code /usr/share/nginx/html
